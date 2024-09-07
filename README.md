@@ -1,6 +1,6 @@
 # Hi, I'm Joshua Sheputa 👋
 
-I'm a Computer Science junior at Bridgewater State University, with a passion for software development and improving my homelab. I'm currently maintaining a 3.78 GPA while working on projects that allow me to explore various technologies and languages.
+I'm a Computer Science senior at Bridgewater State University, with a passion for software development and improving my homelab. I'm currently maintaining a 3.78 GPA while working on projects that allow me to explore various technologies and languages.
 
 ---
 
