@@ -1,10 +1,13 @@
 # Hi, I'm Josh 👋
 
-I'm a Computer Science senior at Bridgewater State University, with a passion for software development and improving my homelab. I'm currently maintaining a 3.78 GPA while working on projects that allow me to explore various technologies and languages.
+I'm a Computer Science graduate from Bridgewater State University, with a passion for cloud architecture and improving my homelab.
 
 ---
 
 ## 🚀 Projects
+
+- **[Cloud-Native Resume Site](https://github.com/Teknicallity/portfolio-website)**
+  A cloud-native, serverless resume site deployed entirely on AWS.
 
 - **[Tubarr: Video Archiver](https://github.com/Teknicallity/tubarr)**  
   A web app using Django and yt-dlp for archiving videos. Easily manage, preview, and download videos with a simple interface.
@@ -23,16 +26,18 @@ I'm a Computer Science senior at Bridgewater State University, with a passion fo
 
 ## 🛠️ Languages & Technologies
 
-- **Languages:** Java, Python, Go, HTML, CSS, JavaScript, Bash
-- **Technologies:** Docker, Ansible, Git, SQLite, MySQL, Django
-- **Tools:** VS Code, JetBrains Suite
+- **Languages:** Python, Golang, SQLite, MySQL, JavaScript, HTML, CSS, Bash
+- **Frameworks & Libraries:** Flask, Django, Tailwind CSS
+- **Developer Tools:** Git, Docker, GitHub Actions, VS Code, PyCharm, IntelliJ, GoLand
+- **AWS Services:** S3, CloudFront, Lambda, API Gateway, DynamoDB, IAM, VPC
+- **Architecture & Practices:** Serverless, Solution Architecture, CI/CD, High Availability, Linux
 
 ---
 
 ## 💡 About Me
 
-- **Pursuing:** B.S. in Computer Science, Minoring in Statistics
+- **Degree:** B.S. in Computer Science, Minor in Statistics
 - **Homelab Enthusiast:** Proficient in Proxmox and Unraid-based homelab setups, server management, networking, and backup solutions.
-- **Currently Learning:** Advanced algorithms, system design, Docker containerization, and automation with Ansible.
+- **Currently Learning:** Advanced cloud engineering concepts, Infrastructure as Code
 
 Feel free to check out my [GitHub repositories](https://github.com/Teknicallity?tab=repositories) to see what I'm currently working on!
